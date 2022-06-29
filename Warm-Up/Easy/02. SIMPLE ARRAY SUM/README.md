@@ -1,7 +1,7 @@
 ## SIMPLE ARRAY SUM
 PROBLEM : ```https://www.hackerrank.com/challenges/simple-array-sum/problem?isFullScreen=true```
 
-SOLUTION:``` ``` 
+SOLUTION:```https://github.com/SeshanSaravanan/Problem-Solving-in-Python/new/main/Warm-Up/Easy/02.%20SIMPLE%20ARRAY%20SUM``` 
 
 Given an array of integers, find the sum of its elements.
 
