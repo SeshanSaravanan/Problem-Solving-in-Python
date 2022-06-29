@@ -1,7 +1,9 @@
 ## SOLVE ME FIRST
 
-PROBLEM  : https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
-SOLUTION : https://github.com/SeshanSaravanan/Problem-Solving-in-Python/tree/main/Warm-Up/Easy/01.%20SOLVE%20ME%20FIRST
+# PROBLEM  : https://www.hackerrank.com/challenges/solve-me-first/problem?isFullScreen=true
+# SOLUTION : https://github.com/SeshanSaravanan/Problem-Solving-in-Python/tree/main/Warm-Up/Easy/01.%20SOLVE%20ME%20FIRST
+
+
 # Complete the function solveMeFirst to compute the sum of two integers.
 
 # Example
