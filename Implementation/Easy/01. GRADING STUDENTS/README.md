@@ -2,7 +2,7 @@
 
 PROBLEM : ``` https://www.hackerrank.com/challenges/grading/problem?isFullScreen=true```
 
-SOLUTION: ```
+SOLUTION: ```https://github.com/SeshanSaravanan/Problem-Solving-in-Python/new/main/Implementation/Easy/01.%20GRADING%20STUDENTS```
 
 HackerLand University has the following grading policy:
 
